@@ -3733,7 +3733,7 @@ VisualEffect:
       - m_Value: 1
         m_Name: Initial Dissusion
         m_Overridden: 1
-      - m_Value: 2
+      - m_Value: 1
         m_Name: Initial Diffusion
         m_Overridden: 1
     m_Vector2f:
@@ -3743,7 +3743,7 @@ VisualEffect:
       - m_Value: {x: 10.46, y: 3.546887, z: -7.1}
         m_Name: Position
         m_Overridden: 1
-      - m_Value: {x: -4.099405, y: 10.675907, z: -13.942547}
+      - m_Value: {x: -4.1090555, y: 10.674182, z: -13.936483}
         m_Name: UI position
         m_Overridden: 1
       - m_Value: {x: -0.82528067, y: 0.8791865, z: 0.9473308}
